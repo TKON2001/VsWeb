@@ -1,0 +1,11 @@
+{
+  "name": "vsweb-server",
+  "version": "1.0.0",
+  "description": "Self-contained backend server for lottery number service.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests/run.js"
+  },
+  "license": "MIT"
+}
